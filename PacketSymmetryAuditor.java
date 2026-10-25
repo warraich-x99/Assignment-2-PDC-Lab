@@ -32,4 +32,4 @@ public class PacketSymmetryAuditor {
             System.out.println("[SECURITY ALERT] Packet payload asymmetry detected!");
         }
     }
-}
+}// JavaDoc update
