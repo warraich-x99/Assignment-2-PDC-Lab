@@ -11,4 +11,4 @@ public class TradeEvent {
 public void dispatch() {
         System.out.println("[TradeEvent] Generic Dispatch -> Sender: " + senderId + ", Timestamp: " + timestamp + ", Base Price: " + basePrice);
     }
-}
+}// JavaDoc update
