@@ -13,4 +13,4 @@ private String clOrdId;
         System.out.println("[FIXOrderEvent] Executing Stock Purchase -> Client Order ID: " + clOrdId + 
                            ", Fee (0.15%): " + fee + ", Total: " + executedPrice);
     }
-}
+}// JavaDoc update
