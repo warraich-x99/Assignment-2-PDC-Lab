@@ -13,4 +13,4 @@ public class PortfolioEngineApp {
 
         System.out.println("[PARALLEL COMPUTATION COMPLETE] Total Portfolio Risk Score: " + totalRiskScore);
     }
-}
+}// JavaDoc update
