@@ -39,4 +39,4 @@ public class PipelineApp {
 
         System.out.println("[PIPELINE COMPLETE] All telemetry packets successfully processed.");
     }
-}
+}// JavaDoc update
