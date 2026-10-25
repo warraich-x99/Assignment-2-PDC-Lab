@@ -22,4 +22,4 @@ public class TradingExchangeApp {
 
         System.out.println("[EXCHANGE SHUTDOWN] All concurrent market orders settled successfully.");
     }
-}
+}// JavaDoc update
