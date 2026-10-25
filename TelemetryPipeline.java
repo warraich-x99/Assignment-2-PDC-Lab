@@ -14,4 +14,4 @@ public class TelemetryPipeline {
         System.out.println("[CONSUMER] Processed: " + message);
         return message;
     }
-}
+}// JavaDoc update
