@@ -33,4 +33,4 @@ public class ParallelRiskCalculator extends RecursiveTask<Double> {
             return leftResult + rightResult;
         }
     }
-}
+}// JavaDoc update
