@@ -15,4 +15,4 @@ public class ReutersQuoteEvent extends TradeEvent {
                            ", Timestamp: " + timestamp + ", Bid: " + bidPrice + 
                            ", Ask: " + askPrice + ", Bid-Ask Spread: " + spread);
     }
-}
+}// JavaDoc update
