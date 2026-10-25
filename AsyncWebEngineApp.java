@@ -21,4 +21,4 @@ public class AsyncWebEngineApp {
 
         System.out.println("[main] Both worker threads completed cleanly. Main thread terminating.");
     }
-}
+}// JavaDoc update
