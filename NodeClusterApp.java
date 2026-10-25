@@ -10,4 +10,4 @@ public class NodeClusterApp {
         System.out.println("[NODE-02] Validating Block 2 Hash: " + block2.getCurrentHash() + " -> Status: " + (block2.validateBlock() ? "VERIFIED" : "CORRUPTED"));
         System.out.println("[CONSENSUS] Distributed Ledger Node Cluster synchronized successfully.");
     }
-}
+}// JavaDoc update
