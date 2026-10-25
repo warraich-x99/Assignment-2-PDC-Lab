@@ -14,4 +14,4 @@ public class TelemetryThread extends Thread {
             System.out.println("[" + getName() + "] Interrupted.");
         }
     }
-}
+}// JavaDoc update
