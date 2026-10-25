@@ -35,4 +35,4 @@ public class RequestQueue {
     public boolean isEmpty() {
         return (size == 0);
     }
-}
+}// JavaDoc update
