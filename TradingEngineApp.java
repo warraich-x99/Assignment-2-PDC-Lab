@@ -9,4 +9,4 @@ public class TradingEngineApp {
         event1.dispatch();
         event2.dispatch();
     }
-}
+}// JavaDoc update
