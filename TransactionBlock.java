@@ -26,4 +26,4 @@ public class TransactionBlock {
     public String getCurrentHash() { 
         return currentHash; 
     }
-}
+}// JavaDoc update
