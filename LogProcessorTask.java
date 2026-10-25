@@ -10,4 +10,4 @@ public class LogProcessorTask implements Runnable {
             System.out.println("[Log-Worker] Interrupted.");
         }
     }
-}
+}// JavaDoc update
