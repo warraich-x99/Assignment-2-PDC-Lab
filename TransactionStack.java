@@ -33,4 +33,4 @@ private char[] stackArray;
     public boolean isEmpty() {
         return (top == -1);
     }
-}
+}// JavaDoc update
